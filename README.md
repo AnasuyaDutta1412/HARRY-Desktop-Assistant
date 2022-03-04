@@ -1,1 +1,2 @@
-# HARRY-Desktop-Assistant
+While each assistant focusses on different tasks, but all of them tries to create the user’s life quite easier through verbal interactions so that we don’t require a keyboard search to search out answers to questions like “What’s the weather today?” or “Search something on wikipedia?”and many more, which will obviously save user’s time.
+So this desktop assistance takes the voice input from the user and converts our voice into computer accessible language which gives the required solutions asked by the user. It connects with the world wide web to give outputs that the user has questioned. The entire system works on the verbal input of the user.
